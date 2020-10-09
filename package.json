@@ -1,1 +1,12 @@
-
+{
+  "name": "Minecraft",
+  "description": "Website to learn about Minecraft",
+  "version": '1.0.0',
+  "main": "accueil.html",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ratoujemie8617/Minecraft/",
+  },
+  "keywords": ["Minecraft", "minecraft", "Notch", "notch"],
+  "author": "Jérémie B. et Hugo V."
+}
