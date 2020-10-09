@@ -1,7 +1,7 @@
 {
   "name": "Minecraft",
   "description": "Website to learn about Minecraft",
-  "version": '1.0.0',
+  "version": "1.0.0",
   "main": "accueil.html",
   "repository": {
   "type": "git",
